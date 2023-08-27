@@ -2,7 +2,7 @@
 
 A simple ChatApp named as "Chattie" built with Flutter and Dart containing simple CRUD Operations.
 
-##Here is the Overview of what the app looks like:
+## Here is the Overview of what the app looks like:
 
 
 
