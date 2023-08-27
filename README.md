@@ -6,5 +6,7 @@ A simple ChatApp named as "Chattie" built with Flutter and Dart containing simpl
 
 
 
-https://github.com/Umaima1205/ChatApp/assets/112200777/0be23552-a54b-4544-9424-7b008a9df60a
+
+
+https://github.com/Umaima1205/ChatApp/assets/112200777/246ef70d-d7b7-4cc9-9b2f-4d81cfbfd834
 
